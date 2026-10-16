@@ -21,7 +21,7 @@ The Markdown texts were edited until 2 April 2026, and the repository's history 
 
 ## On Zenodo, then on SSRN
 
-Each paper was published first on Zenodo, with a DOI, and then listed on SSRN, whose record carries the Zenodo DOI. The date given for each paper is its date on Zenodo. Zenodo dates by the UTC calendar, so the moment of each upload is given beside it.
+Each paper was published first on Zenodo, with a DOI, and then listed on SSRN, whose record carries the Zenodo DOI. The date given for each paper is its date on Zenodo. That date is not always the day of the upload, so the moment of each upload is given beside it.
 
 | Zenodo date | Paper | Uploaded to Zenodo | DOI | SSRN |
 |---|---|---|---|---|

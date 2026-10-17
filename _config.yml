@@ -7,5 +7,8 @@ description: >-
 tagline: BC-DS, 2026
 kramdown:
   smart_quotes: apos,apos,quot,quot
+webmaster_verifications:
+  google: "_fY5mhpayBJP0oy4oHAKc1SsoPNTZedC943y8zR5C4M"
+  bing: "41A356F5A1A757FC89EEF376321B5CD2"
 plugins:
   - jekyll-sitemap

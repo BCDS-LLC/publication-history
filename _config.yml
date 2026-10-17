@@ -1,0 +1,8 @@
+title: Publication history of the BDA and SDA frameworks
+description: >-
+  Dated record of when BC-DS first published the Business Decision
+  Architecture (BDA) and Solo Decision Architecture (SDA) frameworks and
+  their papers, and of its public use of the terms decision architecture,
+  Decision Architect and decision architecture discipline.
+plugins:
+  - jekyll-sitemap

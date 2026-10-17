@@ -32,6 +32,24 @@ Each paper was published first on Zenodo, with a DOI, and then listed on SSRN, w
 
 BDA v3.0's Zenodo record says that it supersedes BDA v2.1.
 
+## The terms in these documents
+
+These documents use the terms "decision architecture", "Decision Architect" and "decision architecture discipline" in public, at the dates proved above. Each quotation is exact, and each source is linked at the commit that first published it.
+
+| Term | Earliest use in these documents | Quotation |
+|---|---|---|
+| decision architecture | BDA v1.00, 26 February 2026 ([PDF](https://github.com/Daniel-ams/BDA-Framework-v-1.00/blob/58dfb36cdf19f68a1856485edce90a701f4d4127/BDA_Framework_v1_00_022626_tsa.pdf)) | "Organizations began treating AI as the transformation itself, when AI was an accelerant that made sound decision architecture more urgent, not less." |
+| Decision Architect | BDA v1.00, 26 February 2026 (the same PDF) | Its Part Seven is headed "The Decision Architect and the Business Decision Architect", and one of its sections "The Decision Architect: An Open Role". |
+| decision architecture discipline | SDA v1.0, 31 March 2026, 01:21 UTC (30 March, 21:21 Rockville) ([text](https://github.com/BCDS-LLC/Frameworks-BDA-and-SDA/blob/d34e80b4e93317308a8e6c19b73b924d162670bd/docs/SDA_Framework_v1.0.md)) | "The SDA is published under Creative Commons Attribution 4.0 International License as part of BC-DS's commitment to an open decision architecture discipline." |
+
+On 17 March 2026, in the BDA v2 text it first published ([commit 50578cd](https://github.com/BCDS-LLC/Frameworks-BDA-and-SDA/blob/50578cd5e4a6d4083003a0148ddece2d4a86b877/docs/BDA_Framework_v2.md)), BC-DS wrote:
+
+> BC-DS explicitly disclaims exclusive rights to the following terms, which are dedicated to the public as open disciplinary concepts. Any individual or organization may use these freely in the practice, teaching, or development of Business Decision Architecture:
+
+The terms it lists include Business Decision Architecture (BDA), as an "Open disciplinary term", and Business Decision Architect / Decision Architect, as an "Open professional title". The same passage is in the BDA v2.1 PDF of 3 April 2026.
+
+These quotations record BC-DS's own public use of the terms. They do not claim that BC-DS was the first to use them.
+
 ## How to check
 
 1. **The time stamps.** Adobe Acrobat Reader shows each freetsa.org time stamp in its Signatures panel. The [README of Daniel-ams/BDA-Framework-v-1.00](https://github.com/Daniel-ams/BDA-Framework-v-1.00) gives the fingerprints of the files and of freetsa.org's certificates.

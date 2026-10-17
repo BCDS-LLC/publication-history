@@ -4,5 +4,8 @@ description: >-
   Architecture (BDA) and Solo Decision Architecture (SDA) frameworks and
   their papers, and of its public use of the terms decision architecture,
   Decision Architect and decision architecture discipline.
+tagline: BC-DS, 2026
+kramdown:
+  smart_quotes: apos,apos,quot,quot
 plugins:
   - jekyll-sitemap

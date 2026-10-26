@@ -1,9 +1,10 @@
-title: Publication history of the BDA and SDA frameworks
+title: "Decision Architecture: publication history of BC-DS's work"
 description: >-
-  Dated record of when BC-DS first published the Business Decision
-  Architecture (BDA) and Solo Decision Architecture (SDA) frameworks and
-  their papers, and of its public use of the terms decision architecture,
-  Decision Architect and decision architecture discipline.
+  Dated record of BC-DS's published work on decision architecture: the
+  Business Decision Architecture (BDA) and Solo Decision Architecture (SDA)
+  frameworks and their papers, Monica M. Hernandez's articles and posts in
+  English and Spanish, and BC-DS's public use of the terms decision
+  architecture, Decision Architect and decision architecture discipline.
 tagline: BC-DS, 2026
 kramdown:
   smart_quotes: apos,apos,quot,quot

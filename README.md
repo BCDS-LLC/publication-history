@@ -89,6 +89,10 @@ To check a version without trusting BC-DS:
 1. **The time stamp.** Take README.md as it stands at that version's commit, and its time-stamp reply from `timestamps/`. The command `openssl ts -verify -in reply.tsr -data README.md -CAfile cacert.pem -untrusted tsa.crt`, with freetsa.org's certificates from the same folder or from [freetsa.org](https://freetsa.org/), answers "Verification: OK" only if the text is unchanged since the stamp was made. The command `openssl ts -reply -in reply.tsr -text` shows the time in the stamp.
 2. **The Wayback Machine.** [Its list of saved copies of this page](https://web.archive.org/web/*/https://bcds-llc.github.io/publication-history/) shows each copy with the date the Internet Archive saved it.
 
+## How visits are counted
+
+This page sets no cookies. To count visits, it loads a small script from Cloudflare Web Analytics. For each visit, it sends Cloudflare the page's address, where the visit came from, the browser and system versions, and how quickly the page loaded. Like any request, it reaches Cloudflare with the visitor's IP address. It sets no cookie and, as Cloudflare describes it, does not track individual visitors. GitHub, which serves this page, keeps its own records of the requests made to it.
+
 ## Licence
 
 The papers are licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).

@@ -10,7 +10,7 @@ defaults:
       path: ""
     values:
       image:
-        path: /assets/og-image.png
+        path: /assets/og-image-r2.png
         width: 1200
         height: 630
 kramdown:

@@ -1,6 +1,10 @@
-title: "Decision Architecture: publication history of BC-DS's work"
-description: "Dated record of BC-DS's published work on decision architecture: the BDA and SDA frameworks, their papers, and Monica M. Hernandez's articles and posts."
+title: "Decision Architecture: publication history of BC-DS’s work"
+description: "Dated record of BC-DS’s published work on decision architecture: the BDA and SDA frameworks, their papers, and Monica M. Hernandez’s articles and posts."
 tagline: BC-DS, 2026
+image:
+  path: /assets/og-image.png
+  width: 1200
+  height: 630
 kramdown:
   smart_quotes: apos,apos,quot,quot
 webmaster_verifications:

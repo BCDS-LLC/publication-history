@@ -1,4 +1,6 @@
-# Decision Architecture: publication history of BC-DS's work on the decision architecture discipline
+# Decision architecture models: publication history
+
+BC-DS’s published work on the decision architecture discipline: the SDA and BDA models, their papers, and the articles and posts about them.
 
 Business Consultants for Digital Solutions, LLC (BC-DS), Rockville, Maryland.
 

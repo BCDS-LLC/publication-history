@@ -23,7 +23,7 @@ The Markdown texts were edited until 2 April 2026, and the repository's history 
 
 ## On Zenodo, then on SSRN
 
-Each paper was published first on Zenodo, with a DOI, and then listed on SSRN, whose record carries the Zenodo DOI. The date given for each paper is its date on Zenodo. That date is not always the day of the upload, so the moment of each upload is given beside it.
+Each paper of April 2026 was published first on Zenodo, with a DOI, and then listed on SSRN, whose record carries the Zenodo DOI. The date given for each paper is its date on Zenodo. That date is not always the day of the upload, so the moment of each upload is given beside it.
 
 | Zenodo date | Paper | Uploaded to Zenodo | DOI | SSRN |
 |---|---|---|---|---|
@@ -31,8 +31,20 @@ Each paper was published first on Zenodo, with a DOI, and then listed on SSRN, w
 | 28 April 2026 | *Backcasting and the Dual Lens: A Methodological Foundation for the Decision Architecture Discipline*, v1.0 | 27 April, 22:17 UTC (18:17 Rockville) | [10.5281/zenodo.19832436](https://doi.org/10.5281/zenodo.19832436) | [6668140](https://ssrn.com/abstract=6668140), posted 28 April 2026 |
 | 29 April 2026 | *Solo Decision Architecture (SDA) Framework: An Operating System Powered by the Dual Lens Principle*, v2.0 | 29 April, 02:50 UTC (28 April, 22:50 Rockville) | [10.5281/zenodo.19871192](https://doi.org/10.5281/zenodo.19871192) | [6675481](https://ssrn.com/abstract=6675481), posted 29 April 2026 |
 | 30 April 2026 | *Business Decision Architecture (BDA) Framework: The Discipline of Organizational Decision Governance*, v3.0 | 30 April, 02:14 UTC (29 April, 22:14 Rockville) | [10.5281/zenodo.19903175](https://doi.org/10.5281/zenodo.19903175) | [6682698](https://ssrn.com/abstract=6682698), posted 11 May 2026 |
+| 20 November 2026 | *Decision Distortion in the Age of AI*, v2.0 | 20 November, 20:38 UTC (15:38 Rockville) | [10.5281/zenodo.23626010](https://doi.org/10.5281/zenodo.23626010) | Submitted on 20 November 2026; under SSRN’s review |
+| 20 November 2026 | *The Dual Lens Principle: Backcasting and the Macro, Micro, Macro Technique*, v2.0 | 20 November, 20:39 UTC (15:39 Rockville) | [10.5281/zenodo.23626294](https://doi.org/10.5281/zenodo.23626294) | Submitted on 20 November 2026; under SSRN’s review |
+| 20 November 2026 | *Solo Decision Architecture (SDA)*, v3.0 | 20 November, 20:39 UTC (15:39 Rockville) | [10.5281/zenodo.23626329](https://doi.org/10.5281/zenodo.23626329) | Not submitted on 20 November 2026 |
+| 20 November 2026 | *Business Decision Architecture (BDA)*, v4.0 | 20 November, 20:40 UTC (15:40 Rockville) | [10.5281/zenodo.23626350](https://doi.org/10.5281/zenodo.23626350) | Not submitted on 20 November 2026 |
+| 20 November 2026 | *The Decision Architecture Discipline: A Proposal and Reference Model for the Age of AI*, v1.0 | 20 November, 20:40 UTC (15:40 Rockville) | [10.5281/zenodo.23626398](https://doi.org/10.5281/zenodo.23626398) | Not submitted on 20 November 2026 |
+| 20 November 2026 | *Decision Architecture: Designing How Consequential Decisions Are Made, Held and Revised*, v1.0 | 20 November, 20:41 UTC (15:41 Rockville) | [10.5281/zenodo.23626372](https://doi.org/10.5281/zenodo.23626372) | Not submitted on 20 November 2026 |
 
 BDA v3.0's Zenodo record says that it supersedes BDA v2.1.
+
+The six papers of 20 November 2026 form one series by the same two authors. Four are new versions of the papers above: *Decision Distortion in the Age of AI* v2.0 of the paper of 27 April 2026, *The Dual Lens Principle* v2.0 of the paper of 28 April 2026, SDA v3.0 of SDA v2.0 and BDA v4.0 of BDA v3.0. Each of their Zenodo records lists the versions before it. The other two, the Proposal and the introduction to the series, are new papers. For these six, the time given beside the date is when Zenodo published the record and registered its DOI, as DataCite records it.
+
+Each paper also has a DOI that stands for all its versions and always leads to the newest: [10.5281/zenodo.19831514](https://doi.org/10.5281/zenodo.19831514) for *Decision Distortion in the Age of AI*, [10.5281/zenodo.19832435](https://doi.org/10.5281/zenodo.19832435) for *The Dual Lens Principle*, [10.5281/zenodo.19871191](https://doi.org/10.5281/zenodo.19871191) for SDA, [10.5281/zenodo.19903174](https://doi.org/10.5281/zenodo.19903174) for BDA, [10.5281/zenodo.23626397](https://doi.org/10.5281/zenodo.23626397) for the Proposal and [10.5281/zenodo.23626371](https://doi.org/10.5281/zenodo.23626371) for the introduction.
+
+These six go to SSRN as new preprints; the SSRN pages of the April versions stay as they are and show those versions. On 20 November 2026 the first two had been submitted and were under SSRN’s review, and the other four had not been submitted. SSRN’s posting of each will be added to this section on the day it appears, without rewriting the rows above.
 
 ## The terms in these documents
 

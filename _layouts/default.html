@@ -9,10 +9,33 @@
     <title>{% if page.title and page.title != site.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
+    <style>
+      .site-nav { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.5rem 1.5rem; font-size: 0.95rem; }
+      .site-header { padding-bottom: 0.75rem; margin-bottom: 2rem; border-bottom: 1px solid #d0d7de; }
+      .site-header .site-name { font-weight: 600; margin-right: auto; }
+      .site-header a[aria-current="page"] { font-weight: 600; color: inherit; }
+      .site-footer { padding-top: 0.75rem; margin-top: 3rem; border-top: 1px solid #d0d7de; }
+    </style>
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
+      <header class="site-header">
+        <nav class="site-nav" aria-label="This site">
+          <span class="site-name">{{ site.title | escape }}</span>
+          <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Papers</a>
+          <a href="{{ '/articles/' | relative_url }}"{% if page.url == '/articles/' %} aria-current="page"{% endif %}>Articles and posts</a>
+        </nav>
+      </header>
+
       {{ content }}
+
+      <footer class="site-footer">
+        <nav class="site-nav" aria-label="BC-DS">
+          <a href="https://bc-ds.com/">BC-DS</a>
+          <a href="https://decisiontect.com/">Decisiontect™</a>
+          <a href="https://github.com/BCDS-LLC/publication-history">This record on GitHub</a>
+        </nav>
+      </footer>
 
       {% if site.github.private != true and site.github.license %}
       <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

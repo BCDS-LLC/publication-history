@@ -4,7 +4,7 @@ BC-DS’s published work on the decision architecture discipline: the SDA and BD
 
 Business Consultants for Digital Solutions, LLC ([BC-DS](https://bc-ds.com/)) is a decision architecture firm in Rockville, Maryland. It works on how consequential decisions are made, held and revised, with clear rules for AI, and builds [Decisiontect™](https://decisiontect.com/), an app that implements elements of Solo Decision Architecture (SDA).
 
-This page records how BC-DS has published its work on the decision architecture discipline. It covers the framework papers by Monica M. Hernandez and Daniel A. Montero. Their articles, posts and comments, in English and Spanish, on LinkedIn, in PM World Journal, on Influential Women and on bc-ds.com, are on a second page: [Articles and posts by Monica M. Hernandez and Daniel A. Montero](https://bcds-llc.github.io/publication-history/articles/). For each piece it gives the date and what proves it, and where anyone can check it when the proof is public. It records the publications of BC-DS and its two authors only. It makes no claim about who first used the words "decision architecture" or "arquitectura de decisiones", or about anyone else's use of them.
+This page records how BC-DS has published its work on the decision architecture discipline. It covers the framework papers by Monica M. Hernandez and Daniel A. Montero. Their articles and posts, in English and Spanish, on LinkedIn, in PM World Journal, on Influential Women, on bc-ds.com and, before the models, on convoking4.com, are on a second page: [Articles and posts by Monica M. Hernandez and Daniel A. Montero](https://bcds-llc.github.io/publication-history/articles/). For each piece it gives the date and what proves it, and where anyone can check it when the proof is public. It records the publications of BC-DS and its two authors only. It makes no claim about who first used the words "decision architecture" or "arquitectura de decisiones", or about anyone else's use of them.
 
 All times are given in UTC, with Rockville time beside them.
 
@@ -68,7 +68,7 @@ These quotations record BC-DS's own public use of the terms. They do not claim t
 
 ## Articles and posts
 
-The articles, posts and comments of Monica M. Hernandez and Daniel A. Montero that use these terms are on their own page, [Articles and posts by Monica M. Hernandez and Daniel A. Montero](https://bcds-llc.github.io/publication-history/articles/), with the date of each and what proves it. The rows of Monica M. Hernandez's articles and posts that stood in this section are on that page, unchanged.
+The articles and posts of Monica M. Hernandez and Daniel A. Montero that use these terms, and their earlier pieces on decision-making, are on their own page, [Articles and posts by Monica M. Hernandez and Daniel A. Montero](https://bcds-llc.github.io/publication-history/articles/), with the date of each and what proves it. The rows of Monica M. Hernandez's articles and posts that stood in this section moved to that page unchanged; one of them, a comment, was taken off later, as that page records.
 
 ## How to check
 
@@ -80,7 +80,7 @@ The articles, posts and comments of Monica M. Hernandez and Daniel A. Montero th
 
 ## How this page is kept
 
-Each new paper is added to this page as a row on the day it appears, and each new article, post or comment to the [page of articles and posts](https://bcds-llc.github.io/publication-history/articles/). No existing row is rewritten.
+Each new paper is added to this page as a row on the day it appears, and each new article or post to the [page of articles and posts](https://bcds-llc.github.io/publication-history/articles/). No existing row is rewritten.
 
 From this version on, the text of each version of this page, its file README.md, is time-stamped by freetsa.org under RFC 3161. A version cannot hold its own time stamp, so each version's stamp is added afterwards to the repository's folder `timestamps/`, with freetsa.org's request, reply and certificates. Each version is also saved to the Internet Archive's Wayback Machine. The page of articles and posts, its file articles.md, is time-stamped and saved the same way, with its stamps in a subfolder `articles/` under each version's commit.
 

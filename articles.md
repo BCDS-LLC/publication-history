@@ -18,7 +18,7 @@ All times are given in UTC, with Rockville time beside them.
 
 Each author’s table lists the pieces that use one of the terms "decision architecture", "Decision Architect", "decision architecture discipline", "Business Decision Architecture" or "Solo Decision Architecture", or the Spanish forms "arquitectura de decisiones" and "arquitectura de decisión". Each quotation is exact. The section "Before the models" lists the authors’ earlier pieces on decision-making, published before 26 February 2026, the date of BDA v1.00, that do not use the terms. The page lists articles and posts. Comments are not listed.
 
-LinkedIn prints an exact date under the byline of an article, and that date is given here as LinkedIn prints it. LinkedIn shows a post only by its age, so a post's date and time are worked out from its LinkedIn identifier, the number in its address, whose leading part counts the milliseconds since 1 January 1970 in UTC. Worked this way, the identifiers give the right date for six articles whose exact dates LinkedIn prints. Both kinds of date come from LinkedIn's own records. The account's owner can edit a piece after it is published, and LinkedIn marks an edited post without saying when, so these dates are not independent time stamps like the freetsa.org time stamps of the papers.
+LinkedIn prints an exact date under the byline of an article, and that date is given here as LinkedIn prints it. LinkedIn shows a post only by its age, so a post's date and time are worked out from its LinkedIn identifier, the number in its address, whose leading part counts the milliseconds since 1 January 1970 in UTC. When a post was scheduled ahead, LinkedIn also gives its draft an identifier; the date here is the published post’s, and the link uses it. Worked this way, the identifiers give the right date for six articles whose exact dates LinkedIn prints. Both kinds of date come from LinkedIn's own records. The account's owner can edit a piece after it is published, and LinkedIn marks an edited post without saying when, so these dates are not independent time stamps like the freetsa.org time stamps of the papers.
 
 The article on bc-ds.com is dated by WordPress's revision history, which records when each version of a page was saved. Only BC-DS can open that history. It was read on 6 November 2026; the article has been revised since it first went public, so the text on bc-ds.com today differs from the text first published, and the quotations below are from the first version.
 
@@ -55,6 +55,21 @@ Daniel A. Montero, an author of the papers, has written about decision architect
 ## Before the models
 
 BDA v1.00, the first of the papers, was published on 26 February 2026, as the [publication history](https://bcds-llc.github.io/publication-history/) shows. The pieces in this section came before it. They are on decision-making and do not use the terms; they are listed as the authors’ earlier published work on the subject, not as early uses of the terms. Each new earlier piece found is added as a row, and the section is kept by the same rules as the rest of the page.
+
+### Monica M. Hernandez
+
+Monica M. Hernandez wrote on decisions, alignment and digital transformation in articles and posts on LinkedIn from 2024.
+
+| Date | Kind | Title, or first line of the post | Where | What proves the date |
+|---|---|---|---|---|
+| 14 August 2024, 15:51 UTC (11:51 Rockville) | Post | "When we assume everyone is on the same page, we overlook the reality that each individual has their own perspective" | [LinkedIn](https://www.linkedin.com/feed/update/urn:li:ugcPost:7229514873238421505/) | Its LinkedIn identifier |
+| 5 February 2025 | Article | *How to Improve Agile Project Management Under Time and Materials Contracts* | [LinkedIn](https://www.linkedin.com/pulse/how-improve-agile-project-management-under-time-monica-hernandez-htuye/) | The date LinkedIn prints under the byline |
+| 2 July 2025 | Article | *The Illusion of Simplicity: Why Project Management in Digital Transformation is Anything But* | [LinkedIn](https://www.linkedin.com/pulse/illusion-simplicity-why-project-management-digital-monica-hernandez-iibme/) | The date LinkedIn prints under the byline |
+| 10 July 2025, 01:12 UTC (9 July, 21:12 Rockville) | Post | "Why Capable Teams Struggle to Deliver" | [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7348881673742118912/) | Its LinkedIn identifier. LinkedIn marks this post as edited and does not say when, so its text may have changed after this date. |
+| 7 October 2025, 13:00 UTC (09:00 Rockville) | Post | "Your Digital Transformation Isn’t Failing" | [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7381312412085428225/) | Its LinkedIn identifier |
+| 16 October 2025, 13:00 UTC (09:00 Rockville) | Post | "The transformation before the transformation is often the one we skip." | [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7384573973650591745/) | Its LinkedIn identifier |
+| 23 October 2025, 13:00 UTC (09:00 Rockville) | Post | "Are Your Projects Truly Aligned with the Bigger Vision?" | [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7387110605972779008/) | Its LinkedIn identifier |
+| 9 February 2026, 14:01 UTC (09:01 Rockville) | Post | "Decision Debt: The Invisible Barrier to Successful Transformations" | [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7426626269179555840/) | Its LinkedIn identifier. LinkedIn marks this post as edited and does not say when, so its text may have changed after this date. |
 
 ### Daniel A. Montero
 

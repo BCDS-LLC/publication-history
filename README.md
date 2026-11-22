@@ -2,7 +2,7 @@
 
 BC-DS’s published work on the decision architecture discipline: the SDA and BDA models, their papers, and the articles and posts about them.
 
-Business Consultants for Digital Solutions, LLC (BC-DS), Rockville, Maryland.
+Business Consultants for Digital Solutions, LLC ([BC-DS](https://bc-ds.com/)) is a decision architecture firm in Rockville, Maryland. It works on how consequential decisions are made, held and revised, with clear rules for AI, and builds [Decisiontect™](https://decisiontect.com/), an app that implements elements of Solo Decision Architecture (SDA).
 
 This page records how BC-DS has published its work on the decision architecture discipline. It covers the framework papers by Monica M. Hernandez and Daniel A. Montero, and Monica M. Hernandez's articles and posts in English and Spanish, on LinkedIn, in PM World Journal, on Influential Women and on bc-ds.com. For each piece it gives the date and what proves it, and where anyone can check it when the proof is public. It records the publications of BC-DS and its two authors only. It makes no claim about who first used the words "decision architecture" or "arquitectura de decisiones", or about anyone else's use of them.
 
